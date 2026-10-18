@@ -1,7 +1,7 @@
 
 
 ---
-**Senior Software Engineer — Voice AI, Distributed Inference & Backend Architecture**  
+**Senior Software Engineer - Speech/Voice AI, Systems Thinking, Design & Architecture**  
 Islamabad, Pakistan · [LinkedIn](https://www.linkedin.com/in/jawadaminkp) · [jawadaminkp.ai@gmail.com](mailto:jawadaminkp.ai@gmail.com)
 
 > **Note on Public Activity & Contribution Graph:**  
