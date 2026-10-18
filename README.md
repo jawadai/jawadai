@@ -1,13 +1,11 @@
-# My Name is Jawad Amin (جواد امین)
+
 
 ---
-
 **Senior Software Engineer — Voice AI, Distributed Inference & Backend Architecture**  
 Islamabad, Pakistan · [LinkedIn](https://www.linkedin.com/in/jawadaminkp) · [jawadaminkp.ai@gmail.com](mailto:jawadaminkp.ai@gmail.com)
 
 > **Note on Public Activity & Contribution Graph:**  
 > All of my production engineering work—spanning commercial Voice Biometrics, multilingual Automatic Speech Recognition (ASR), and audio intelligence systems at xFlow Research—is developed inside private enterprise repositories and internal infrastructure under strict confidentiality agreements. Because my day-to-day commits are hosted on internal version control systems rather than this personal account, the public contribution graph below does not reflect my commercial engineering activity. This profile is used selectively to share standalone reference architectures, benchmarking tools, and technical documentation.
-
 ---
 
 ### Professional Overview
