@@ -1,16 +1,51 @@
-## Hi there 👋
+#I'm Jawad Amin (جواد امین)
 
-<!--
-**jawadai/jawadai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Engineer — Voice AI, Distributed Inference & Backend Architecture**  
+Islamabad, Pakistan · [LinkedIn](https://www.linkedin.com/in/jawadaminkp) · [jawadaminkp.ai@gmail.com](mailto:jawadaminkp.ai@gmail.com)
 
-Here are some ideas to get you started:
+> **Note on Public Activity & Contribution Graph:**  
+> All of my production engineering work—spanning commercial Voice Biometrics, multilingual Automatic Speech Recognition (ASR), and audio intelligence systems at xFlow Research—is developed inside private enterprise repositories and internal infrastructure under strict confidentiality agreements. Because my day-to-day commits are hosted on internal version control systems rather than this personal account, the public contribution graph below does not reflect my commercial engineering activity. This profile is used selectively to share standalone reference architectures, benchmarking tools, and technical documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Professional Overview
+
+I am a backend and applied AI engineer specializing in taking speech and audio machine learning models from research benchmarks into low-latency, high-throughput production microservices. 
+
+Currently serving as **Senior Engineer and Acting Engineering Lead (Voice AI)** at **xFlow Research**, where I lead system architecture, distributed model serving, and technical delivery across a team of six engineers. Over the course of two years at xFlow Research, I progressed from Intern to Engineer I, Engineer II, and Senior Engineer through end-to-end ownership of customer-facing speech and intelligence platforms.
+
+---
+
+### Core Areas of Focus
+
+- **Distributed AI Inference & Serving:** Designing modular FastAPI microservices paired with Ray Serve for horizontal model scaling, dynamic batching, and concurrent audio pipeline execution (achieving 7.5x throughput improvements on constrained production hardware).
+- **Voice Biometrics & Speaker Recognition:** Architecting end-to-end speaker verification pipelines using state-of-the-art deep embedding models (ECAPA-TDNN), including dedicated audio sampling, preprocessing, and voiceprint extraction services.
+- **Real-Time Speech Systems (ASR & KWS):** Building low-latency multilingual Automatic Speech Recognition platforms and streaming Keyword Spotting systems using Whisper, VOSK, and custom signal processing pipelines.
+- **Applied Research & Technical Leadership:** Benchmarking classical ML against deep acoustic embeddings, authoring architectural white papers on acoustic degradation (codec compression, channel noise, recording conditions), and translating customer requirements into production system designs.
+
+---
+
+### Technical Stack
+
+| Domain | Technologies & Methods |
+| :--- | :--- |
+| **Backend & Distributed Systems** | Python, FastAPI, Ray / Ray Serve, AsyncIO, Concurrency, RESTful APIs, Microservices, Domain-Driven Design (DDD) |
+| **Speech & Audio AI** | ECAPA-TDNN, OpenAI Whisper, VOSK, Coqui XTTS, Voice Biometrics, ASR, Keyword Spotting (KWS), Audio Signal Processing |
+| **Infrastructure & Tooling** | Docker, Linux, Git, Distributed Model Serving, Performance Profiling & Throughput Optimization |
+
+---
+
+### Experience Summary
+
+**xFlow Research (Pvt.) Ltd** — *Islamabad, Pakistan*
+- **Senior Engineer (Acting Engineering Lead, Voice AI)** *(Mar 2026 – Present)*  
+  Leading a 6-engineer team building production Voice Biometrics, scalable multilingual ASR platforms, and streaming Keyword Spotting services using FastAPI and Ray Serve.
+- **Engineer II** *(Mar 2025 – Mar 2026)*  
+  Led speaker recognition model benchmarking, pipeline system design, and technical white papers analyzing acoustic degradation across codecs and noise environments.
+- **Engineer I** *(Mar 2024 – Mar 2025)*  
+  Developed internal audio deep-analysis tooling, OSINT platform prototypes, and reference system architecture documentation.
+- **Software Engineering Intern** *(Jan 2024 – Mar 2024)*  
+  Built a speech-to-speech translation and voice cloning pipeline using Whisper Large and Coqui XTTS.
+
+**Education**
+- **B.S. in Computer Science** — Institute of Management Sciences (IMSciences), Peshawar *(2019 – 2023)*
