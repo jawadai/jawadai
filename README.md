@@ -12,15 +12,14 @@ Islamabad, Pakistan · [LinkedIn](https://www.linkedin.com/in/jawadaminkp) · [j
 
 I am an applied AI engineer specializing in Audio/Speech and Voice AI Systems. Currently serving as **Senior Engineer and Acting Engineering Lead (Voice AI)** at **xFlow Research**, where I lead system architecture, development and technical delivery with a team of six engineers. Over the course of two years (as of 2026) at xFlow Research, I progressed from Intern to Engineer I, Engineer II, and Senior Engineer through end-to-end ownership of customer-facing projects.
 
-### Technical Stack
-
-| Domain | Technologies & Methods |
+### Technical Specifications
+| Category | Details |
 | :--- | :--- |
-| **Backend & Distributed Systems** | Python, FastAPI, Ray / Ray Serve, AsyncIO, Concurrency, RESTful APIs, Microservices, Domain-Driven Design (DDD) |
-| **Speech & Audio AI** | ECAPA-TDNN, OpenAI Whisper, VOSK, Coqui XTTS, Voice Biometrics, ASR, Keyword Spotting (KWS), Audio Signal Processing |
-| **Infrastructure & Tooling** | Docker, Linux, Git, Distributed Model Serving, Performance Profiling & Throughput Optimization |
-
----
+| **Languages & Frameworks** | Python (AsyncIO), FastAPI, Ray, Ray Serve |
+| **Speech & Acoustic Models** | ECAPA-TDNN, Whisper, VOSK, Coqui XTTS |
+| **Core Problem Domains** | Speaker Verification (Voice Biometrics), Automatic Speech Recognition (ASR), Keyword Spotting (KWS), Audio Signal Processing |
+| **Architecture & Design** | Microservices, Distributed Inference, Domain-Driven Design (DDD), REST APIs |
+| **Infrastructure & Tooling** | Docker, Linux, Git |
 
 ### Experience Summary
 
