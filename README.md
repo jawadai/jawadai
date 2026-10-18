@@ -1,4 +1,6 @@
-#I'm Jawad Amin (جواد امین)
+# My Name is Jawad Amin (جواد امین)
+
+---
 
 **Senior Software Engineer — Voice AI, Distributed Inference & Backend Architecture**  
 Islamabad, Pakistan · [LinkedIn](https://www.linkedin.com/in/jawadaminkp) · [jawadaminkp.ai@gmail.com](mailto:jawadaminkp.ai@gmail.com)
