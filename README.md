@@ -5,25 +5,12 @@
 Islamabad, Pakistan · [LinkedIn](https://www.linkedin.com/in/jawadaminkp) · [jawadaminkp.ai@gmail.com](mailto:jawadaminkp.ai@gmail.com)
 
 > **Note on Public Activity & Contribution Graph:**  
-> All of my production engineering work—spanning commercial Voice Biometrics, multilingual Automatic Speech Recognition (ASR), and audio intelligence systems at xFlow Research—is developed inside private enterprise repositories and internal infrastructure under strict confidentiality agreements. Because my day-to-day commits are hosted on internal version control systems rather than this personal account, the public contribution graph below does not reflect my commercial engineering activity. This profile is used selectively to share standalone reference architectures, benchmarking tools, and technical documentation.
+> All of my engineering work spanning enterprise Voice Biometrics, multilingual Automatic Speech Recognition (ASR), and audio intelligence systems at xFlow Research is developed inside private enterprise repositories and internal infrastructure under strict confidentiality agreements. Because my day-to-day commits are hosted on internal version control systems rather than this personal account, the public contribution graph below does not reflect my commercial engineering activity.
 ---
 
 ### Professional Overview
 
-I am a backend and applied AI engineer specializing in taking speech and audio machine learning models from research benchmarks into low-latency, high-throughput production microservices. 
-
-Currently serving as **Senior Engineer and Acting Engineering Lead (Voice AI)** at **xFlow Research**, where I lead system architecture, distributed model serving, and technical delivery across a team of six engineers. Over the course of two years at xFlow Research, I progressed from Intern to Engineer I, Engineer II, and Senior Engineer through end-to-end ownership of customer-facing speech and intelligence platforms.
-
----
-
-### Core Areas of Focus
-
-- **Distributed AI Inference & Serving:** Designing modular FastAPI microservices paired with Ray Serve for horizontal model scaling, dynamic batching, and concurrent audio pipeline execution (achieving 7.5x throughput improvements on constrained production hardware).
-- **Voice Biometrics & Speaker Recognition:** Architecting end-to-end speaker verification pipelines using state-of-the-art deep embedding models (ECAPA-TDNN), including dedicated audio sampling, preprocessing, and voiceprint extraction services.
-- **Real-Time Speech Systems (ASR & KWS):** Building low-latency multilingual Automatic Speech Recognition platforms and streaming Keyword Spotting systems using Whisper, VOSK, and custom signal processing pipelines.
-- **Applied Research & Technical Leadership:** Benchmarking classical ML against deep acoustic embeddings, authoring architectural white papers on acoustic degradation (codec compression, channel noise, recording conditions), and translating customer requirements into production system designs.
-
----
+I am an applied AI engineer specializing in Audio/Speech and Voice AI Systems. Currently serving as **Senior Engineer and Acting Engineering Lead (Voice AI)** at **xFlow Research**, where I lead system architecture, development and technical delivery with a team of six engineers. Over the course of two years (as of 2026) at xFlow Research, I progressed from Intern to Engineer I, Engineer II, and Senior Engineer through end-to-end ownership of customer-facing projects.
 
 ### Technical Stack
 
